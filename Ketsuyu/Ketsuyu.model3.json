@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Ketsuyu.moc3",
+		"Textures": [
+			"Ketsuyu.8192/texture_00.png"
+		],
+		"Physics": "Ketsuyu.physics3.json",
+		"DisplayInfo": "Ketsuyu.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}

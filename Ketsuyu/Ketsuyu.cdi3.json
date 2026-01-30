@@ -1,0 +1,477 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左眼　微笑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼　微笑"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼球 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "眼球 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴部　变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴巴　张开和闭合"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "脸颊"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "身体旋转　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "身体旋转　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "身体旋转　Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "摇动　前发"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "摇动　侧发"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "摇动　后发"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "尾巴"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "",
+			"Name": "裙子 X"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "",
+			"Name": "左袖子 X"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "",
+			"Name": "右袖子 X"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "",
+			"Name": "领带 X"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "",
+			"Name": "呆毛 X"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part2",
+			"Name": "分层"
+		},
+		{
+			"Id": "Part3",
+			"Name": "特殊效果"
+		},
+		{
+			"Id": "Part4",
+			"Name": "角色"
+		},
+		{
+			"Id": "Part5",
+			"Name": "头"
+		},
+		{
+			"Id": "Part39",
+			"Name": "前身"
+		},
+		{
+			"Id": "Part59",
+			"Name": "后身"
+		},
+		{
+			"Id": "Part72",
+			"Name": "后头发"
+		},
+		{
+			"Id": "Part77",
+			"Name": "尾巴"
+		},
+		{
+			"Id": "Part6",
+			"Name": "泛头发"
+		},
+		{
+			"Id": "Part20",
+			"Name": "脸"
+		},
+		{
+			"Id": "Part40",
+			"Name": "领带下"
+		},
+		{
+			"Id": "Part41",
+			"Name": "左手前"
+		},
+		{
+			"Id": "Part44",
+			"Name": "包"
+		},
+		{
+			"Id": "Part48",
+			"Name": "包前"
+		},
+		{
+			"Id": "Part49",
+			"Name": "左领口"
+		},
+		{
+			"Id": "Part50",
+			"Name": "脖子"
+		},
+		{
+			"Id": "Part51",
+			"Name": "右领口"
+		},
+		{
+			"Id": "Part52",
+			"Name": "领带上"
+		},
+		{
+			"Id": "Part53",
+			"Name": "左手后"
+		},
+		{
+			"Id": "Part56",
+			"Name": "裙子"
+		},
+		{
+			"Id": "Part57",
+			"Name": "肩带"
+		},
+		{
+			"Id": "Part58",
+			"Name": "衣服主体"
+		},
+		{
+			"Id": "Part60",
+			"Name": "包后"
+		},
+		{
+			"Id": "Part61",
+			"Name": "左腿"
+		},
+		{
+			"Id": "Part64",
+			"Name": "右腿"
+		},
+		{
+			"Id": "Part67",
+			"Name": "右手"
+		},
+		{
+			"Id": "Part73",
+			"Name": "马尾"
+		},
+		{
+			"Id": "Part76",
+			"Name": "后发"
+		},
+		{
+			"Id": "Part7",
+			"Name": "左耳"
+		},
+		{
+			"Id": "Part11",
+			"Name": "右耳"
+		},
+		{
+			"Id": "Part15",
+			"Name": "头发"
+		},
+		{
+			"Id": "Part21",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "Part32",
+			"Name": "嘴巴"
+		},
+		{
+			"Id": "Part38",
+			"Name": "脸皮"
+		},
+		{
+			"Id": "Part42",
+			"Name": "左手掌"
+		},
+		{
+			"Id": "Part43",
+			"Name": "左小臂"
+		},
+		{
+			"Id": "Part45",
+			"Name": "包表情1"
+		},
+		{
+			"Id": "Part46",
+			"Name": "包表情2"
+		},
+		{
+			"Id": "Part47",
+			"Name": "包本体"
+		},
+		{
+			"Id": "Part54",
+			"Name": "右袖子"
+		},
+		{
+			"Id": "Part55",
+			"Name": "左大臂"
+		},
+		{
+			"Id": "Part62",
+			"Name": "左丝袜"
+		},
+		{
+			"Id": "Part63",
+			"Name": "左大腿"
+		},
+		{
+			"Id": "Part65",
+			"Name": "右丝袜"
+		},
+		{
+			"Id": "Part66",
+			"Name": "右大腿"
+		},
+		{
+			"Id": "Part68",
+			"Name": "右袖子"
+		},
+		{
+			"Id": "Part69",
+			"Name": "右手掌"
+		},
+		{
+			"Id": "Part70",
+			"Name": "右小臂"
+		},
+		{
+			"Id": "Part71",
+			"Name": "右大臂"
+		},
+		{
+			"Id": "Part74",
+			"Name": "左马尾"
+		},
+		{
+			"Id": "Part75",
+			"Name": "右马尾"
+		},
+		{
+			"Id": "Part8",
+			"Name": "左耳前"
+		},
+		{
+			"Id": "Part9",
+			"Name": "左耳毛"
+		},
+		{
+			"Id": "Part10",
+			"Name": "左耳后"
+		},
+		{
+			"Id": "Part12",
+			"Name": "右耳前"
+		},
+		{
+			"Id": "Part13",
+			"Name": "右耳毛"
+		},
+		{
+			"Id": "Part14",
+			"Name": "右耳后"
+		},
+		{
+			"Id": "Part16",
+			"Name": "呆毛"
+		},
+		{
+			"Id": "Part17",
+			"Name": "左侧发"
+		},
+		{
+			"Id": "Part18",
+			"Name": "刘海"
+		},
+		{
+			"Id": "Part19",
+			"Name": "右侧发"
+		},
+		{
+			"Id": "Part22",
+			"Name": "左眼"
+		},
+		{
+			"Id": "Part27",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part33",
+			"Name": "表面"
+		},
+		{
+			"Id": "Part36",
+			"Name": "内嘴巴"
+		},
+		{
+			"Id": "Part23",
+			"Name": "左眼框"
+		},
+		{
+			"Id": "Part25",
+			"Name": "左眼珠"
+		},
+		{
+			"Id": "Part26",
+			"Name": "左眼白"
+		},
+		{
+			"Id": "Part28",
+			"Name": "右眼眶"
+		},
+		{
+			"Id": "Part30",
+			"Name": "右眼珠"
+		},
+		{
+			"Id": "Part31",
+			"Name": "右眼白"
+		},
+		{
+			"Id": "Part34",
+			"Name": "上嘴唇"
+		},
+		{
+			"Id": "Part35",
+			"Name": "下嘴唇"
+		},
+		{
+			"Id": "Part37",
+			"Name": "牙齿"
+		},
+		{
+			"Id": "Part24",
+			"Name": "左上眼眶"
+		},
+		{
+			"Id": "Part29",
+			"Name": "右上眼眶"
+		}
+	]
+}
